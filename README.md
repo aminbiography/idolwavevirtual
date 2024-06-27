@@ -1,4 +1,8 @@
-Git Live URL: https://aminbiography.github.io/idolwavevirtual/
+Git Live URL: 
 
-Web Live URL: https://idolwavevirtual.kesug.com/
+https://aminbiography.github.io/idolwavevirtual/
+
+Web Live URL: 
+
+https://idolwavevirtual.kesug.com/
 
